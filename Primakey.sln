@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primakey", "Primakey\Primakey.csproj", "{E6EE2F01-FA88-45DA-A042-1BCA9B016B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primakey.Tests", "Primakey.Tests\Primakey.Tests.csproj", "{176682A7-0784-4299-8E82-72C5C26AF7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6EE2F01-FA88-45DA-A042-1BCA9B016B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EE2F01-FA88-45DA-A042-1BCA9B016B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EE2F01-FA88-45DA-A042-1BCA9B016B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EE2F01-FA88-45DA-A042-1BCA9B016B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176682A7-0784-4299-8E82-72C5C26AF7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176682A7-0784-4299-8E82-72C5C26AF7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176682A7-0784-4299-8E82-72C5C26AF7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176682A7-0784-4299-8E82-72C5C26AF7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
